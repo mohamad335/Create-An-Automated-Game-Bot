@@ -1,0 +1,8 @@
+cookie clicker game our goal to create and automated bot 
+"http://orteil.dashnet.org/experiments/cookie/" this is the link of game you can play  to understand it
+first we get all the id of items on the right 
+then we get the money that i have 
+then we put the prices of items and the id of its on dictionary
+i get the affordable upgrades of the price that i have 
+then i check it of the max that i can buy it from items and then i puy it check it every 5 seconds
+and after 5 minutes the bot will break 
